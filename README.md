@@ -1,9 +1,9 @@
-### Hi there 👋
+### Olá pessoal, sou o Daniel  👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 Atualmento trabalho com Mecatrônica Industrial. 
+- 🌱 Estou estudando Técnico em Informática e Tecnologo em ADS.
+- 🤔 Estou em busca de oportunidade na área de programação ou desenvolvimento.
+- 💬 Fique a vontade para tirar quaisquer dúvidas.
 <!--
 **dvramos/dvramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
